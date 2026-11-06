@@ -1,5 +1,5 @@
-# datamodel
+# Semanticium — datamodel
 
-Data only (JSON-LD): the classes, the relationships, and the relationships attached to classes. Add-only; comments (rdfs:comment) may be updated. Site: datamodel.semanticium.com (GitHub Pages).
+The classes and relationships used by every Semanticium dataset. Data only, in JSON-LD.
 
-No data yet. See ../PROJECT.md.
+Browse it at https://datamodel.semanticium.com
